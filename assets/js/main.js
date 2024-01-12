@@ -5,7 +5,6 @@ function scrollHeader() {
     else header.classList.remove('scroll-header')
 }
 window.addEventListener('scroll', scrollHeader)
-
 /*=============== SERVICES MODAL ===============*/
 const modalViews = document.querySelectorAll('.services__modal'),
     modalBtns = document.querySelectorAll('.services__button'),
