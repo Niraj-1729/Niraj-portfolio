@@ -1058,7 +1058,7 @@ body.light-theme {
     padding: 5rem 2rem;
   }
   .work__container{
-    grid-template-columns: repeat(3,350px);
+     
     gap: 3rem;
   }
   .work__img{
